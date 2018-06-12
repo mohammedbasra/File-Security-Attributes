@@ -1,0 +1,3 @@
+﻿  ConsoleApplication6.cpp
+c:\users\administrator\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(63): warning C4101: 'StringSid': unreferenced local variable
+  ConsoleApplication6.vcxproj -> C:\Users\Administrator\source\repos\ConsoleApplication6\Debug\ConsoleApplication6.exe
